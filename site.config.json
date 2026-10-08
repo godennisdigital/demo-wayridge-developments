@@ -1,37 +1,40 @@
 {
-  "siteUrl": "https://apexplumbingheating.co.uk",
+  "siteUrl": "https://godennisdigital.com/demo-wayridge-developments",
   "business": {
-    "name": "Apex Plumbing & Heating",
-    "brandName": "APEX",
-    "brandTagline": "PLUMBING & HEATING",
-    "brandInitial": "A",
-    "phone": "+442079460958",
-    "phoneDisplay": "020 7946 0958",
-    "email": "info@apexplumbingheating.co.uk",
-    "streetAddress": "123 High Street",
-    "locality": "London",
-    "postcode": "SW9 8XY",
+    "name": "Wayridge Developments Ltd",
+    "brandName": "WAYRIDGE",
+    "brandTagline": "DESIGN • BUILD • RENOVATE",
+    "brandInitial": "W",
+    "phone": "+441865000000",
+    "phoneDisplay": "01865 000 000",
+    "email": "hello@wayridgedevelopments.co.uk",
+    "streetAddress": "Oxford",
+    "locality": "Oxford",
+    "postcode": "OX1",
     "country": "GB",
     "areaServed": [
-      "Lambeth",
-      "Southwark",
-      "Wandsworth",
-      "Croydon",
-      "Bromley"
+      "Oxford",
+      "Oxfordshire",
+      "Bicester",
+      "Henley-on-Thames",
+      "Abingdon",
+      "Wallingford",
+      "Witney",
+      "Cotswolds"
     ],
-    "mapQuery": "South London, UK",
+    "mapQuery": "Oxford, UK",
     "facebookUrl": "https://www.facebook.com/",
     "instagramUrl": "https://www.instagram.com/"
   },
   "seo": {
-    "title": "24/7 Emergency Plumbers South London | Apex Plumbing & Heating",
-    "description": "24/7 emergency plumbing and heating repairs across South London. Gas Safe registered engineers, clear pricing and no call-out fees.",
-    "notFoundTitle": "Page not found | Apex Plumbing & Heating",
-    "notFoundDescription": "The page you requested could not be found. Contact Apex Plumbing & Heating for help."
+    "title": "Luxury Home Renovations & Design & Build in Oxford | Wayridge Developments",
+    "description": "Wayridge Developments creates exceptional new homes, renovation projects and bespoke refurbishments across Oxford and Oxfordshire.",
+    "notFoundTitle": "Page not found | Wayridge Developments",
+    "notFoundDescription": "The page you requested could not be found. Contact Wayridge Developments for help."
   },
   "privacy": {
-    "title": "Privacy Policy | Apex Plumbing & Heating",
-    "description": "How Apex Plumbing & Heating collects and uses personal information submitted through its website.",
+    "title": "Privacy Policy | Wayridge Developments",
+    "description": "How Wayridge Developments Ltd collects and uses personal information submitted through its website.",
     "heading": "Privacy policy",
     "lastUpdated": "Review before publication",
     "intro": "This privacy policy explains how we handle personal information submitted through this website.",
@@ -49,224 +52,204 @@
   "theme": {
     "colorScheme": "light",
     "colors": {
-      "ink": "#1c302d",
-      "muted": "#59665f",
-      "green": "#173b35",
-      "green-deep": "#102d29",
-      "green-soft": "#e8eeea",
-      "lime": "#d4ed73",
-      "paper": "#f6f7f2",
-      "white": "#fff",
-      "line": "#dfe4dd"
+      "ink": "#1d1c1a",
+      "muted": "#5e5752",
+      "green": "#2f3d35",
+      "green-deep": "#1b2a25",
+      "green-soft": "#f3efe9",
+      "lime": "#d0b06a",
+      "paper": "#f8f4ee",
+      "white": "#ffffff",
+      "line": "#e4d9ca"
     }
   },
   "notice": {
-    "text": "Emergency help, day or night · South London callouts",
-    "linkText": "Speak to an engineer"
+    "text": "Bespoke homes and renovations across Oxfordshire · Design & build specialists",
+    "linkText": "Book a consultation"
   },
   "hero": {
-    "eyebrow": "South London's local plumbing team",
-    "title": "When water won't wait, <em>we're already on our way.</em>",
-    "lede": "Fast, reliable plumbing and heating repairs from fully qualified, Gas Safe registered engineers. No call-out fees. No hidden costs.",
-    "primaryButton": "Call our team",
-    "secondaryButton": "Request a free quote",
-    "proofTitle": "Trusted across South London",
-    "proofBody": "Friendly help, straightforward pricing",
-    "imageNoteTitle": "Here when you need us",
-    "imageNoteBody": "Emergency callouts, 24/7",
-    "imageBadge": "24/7"
+    "eyebrow": "Oxford's premium house builders",
+    "title": "Exceptional homes, crafted around the way you live.",
+    "lede": "From bespoke new builds and full house renovations to premium refurbishments, we create homes with timeless quality, thoughtful design and meticulous standards.",
+    "primaryButton": "Speak to our team",
+    "secondaryButton": "Request a design consultation",
+    "proofTitle": "Trusted across Oxfordshire",
+    "proofBody": "Tailored design, trusted delivery",
+    "imageNoteTitle": "Design-led craftsmanship",
+    "imageNoteBody": "Homes shaped to last beautifully",
+    "imageBadge": "W"
   },
   "trustStrip": [
-    "Gas Safe registered",
-    "Fully insured",
-    "No call-out fees",
-    "15+ years' experience"
+    "Bespoke design & build",
+    "Premium renovations",
+    "Luxury refurbishments",
+    "Oxfordshire-based team"
   ],
   "servicesSection": {
-    "eyebrow": "What we can help with",
-    "heading": "Good hands for<br><em>the whole home.</em>",
-    "intro": "From a dripping tap to a heating system that needs a fresh start, our qualified team gets to the root of it."
+    "eyebrow": "What we do",
+    "heading": "Considered building for<br><em>the way you live.</em>",
+    "intro": "A considered approach to designing, building and transforming exceptional homes."
   },
   "services": [
     {
-      "title": "Emergency plumbing",
-      "description": "Burst pipes, leaks and blockages fixed fast, day or night."
+      "title": "Design & build",
+      "description": "Complete design, planning and construction services for premium residential properties."
     },
     {
-      "title": "Boilers",
-      "description": "Servicing, repairs and full boiler replacements from trusted brands."
+      "title": "Full house renovations",
+      "description": "Thoughtful transformations that improve layout, flow and the way a home feels to live in."
     },
     {
-      "title": "Central heating",
-      "description": "Radiator installs, power flushing and system upgrades."
+      "title": "Luxury refurbishments",
+      "description": "Refined interior upgrades with bespoke detailing, quality finishes and lasting character."
     },
     {
-      "title": "Bathroom plumbing",
-      "description": "Toilets, taps, showers and complete bathroom fit-outs."
+      "title": "Home extensions",
+      "description": "Well-designed additions that create light, space and a seamless connection to the existing home."
     },
     {
-      "title": "Drain clearance",
-      "description": "Hassle-free unblocking for sinks, toilets and outdoor drains."
+      "title": "Kitchen & bathroom design",
+      "description": "Beautifully tailored spaces that balance practicality with a calm, elevated finish."
     },
     {
-      "title": "Home maintenance",
-      "description": "Routine checks and small repairs to keep things running smoothly."
+      "title": "Project management",
+      "description": "Clear communication, efficient delivery and a streamlined build process from concept to completion."
     }
   ],
   "about": {
-    "eyebrow": "A little about Apex",
-    "heading": "Respect for your home.<br><em>Care in every detail.</em>",
-    "intro": "With over 15 years of experience, Apex Plumbing & Heating has been keeping South London homes running smoothly. We're fully insured, Gas Safe registered, and pride ourselves on honest pricing and tidy work.",
-    "supporting": "No job too big or too small. We treat every home like it's our own.",
-    "cta": "Tell us what you need",
-    "tagline": "BUILT ON TRUST, NOT SHORTCUTS.",
-    "experienceYears": "15",
-    "experienceLabel": "YEARS\nON THE TOOLS",
+    "eyebrow": "A little about Wayridge",
+    "heading": "Thoughtful craftsmanship.<br><em>Distinctive homes.</em>",
+    "intro": "Wayridge Developments Ltd is an Oxford-based construction and renovation company creating exceptional residential spaces throughout Oxfordshire. We combine architectural thinking, quality workmanship and an uncompromising eye for detail.",
+    "supporting": "Whether it is a complete new build, a heritage renovation or a refined refurbishment, we deliver homes that feel considered, elegant and enduring.",
+    "cta": "Discuss your project",
+    "tagline": "BUILT WITH INTENT. FINISHED WITH CHARACTER.",
+    "experienceYears": "10",
+    "experienceLabel": "YEARS\nOF CRAFTSMANSHIP",
     "experienceSuffix": "+"
   },
   "area": {
-    "eyebrow": "Close by, ready to help",
-    "heading": "South London<br><em>is our home turf.</em>",
-    "description": "Proudly serving Lambeth, Southwark, Wandsworth, Croydon, Bromley and the surrounding area. Not sure if we cover you? Give us a call. We're often happy to travel further for bigger jobs.",
+    "eyebrow": "Serving Oxfordshire",
+    "heading": "From city homes to countryside properties,<br><em>we build across the region.</em>",
+    "description": "Based in Oxford and working throughout Oxfordshire, we support clients in Oxford, Bicester, Henley, Wallingford, Witney, Abingdon and the surrounding villages. If your project is nearby, we would be delighted to talk.",
     "list": [
-      "Lambeth",
-      "Southwark",
-      "Wandsworth",
-      "Croydon",
-      "Bromley",
-      "And nearby"
+      "Oxford",
+      "Bicester",
+      "Henley-on-Thames",
+      "Abingdon",
+      "Wallingford",
+      "Witney",
+      "Cotswolds"
     ],
-    "cta": "Check your postcode",
-    "mapTag": "LOCAL TEAM, LOCAL KNOW-HOW"
+    "cta": "Check if we cover your area",
+    "mapTag": "LOCAL EXPERTISE, REGIONAL REACH"
   },
   "work": {
-    "eyebrow": "A few jobs, done right",
-    "heading": "The work speaks<br><em>for itself.</em>",
-    "intro": "Careful repairs and installations, with your home left as tidy as we found it.",
+    "eyebrow": "Recent project focus",
+    "heading": "Luxury spaces with lasting value.<br><em>Designed for everyday living.</em>",
+    "intro": "We create homes that feel as considered as they are comfortable, balancing warm craftsmanship with smart, modern functionality.",
     "items": [
-      { "category": "HEATING", "title": "The details matter" },
-      { "category": "BATHROOMS", "title": "Made to feel right" },
-      { "category": "INSTALLATIONS", "title": "Ready for everyday" }
+      { "category": "NEW BUILD", "title": "Tailored for modern living" },
+      { "category": "RENOVATION", "title": "Character restored with care" },
+      { "category": "REFURBISHMENT", "title": "Beautifully reimagined" }
     ]
   },
   "reviews": {
-    "eyebrow": "Kind words from the neighbourhood",
-    "heading": "Good people.<br><em>Good work.</em>",
+    "eyebrow": "What clients say",
+    "heading": "A calm, professional build experience.<br><em>And a result worth living in.</em>",
     "rating": "5.0",
-    "ratingLabel": "From our South London customers",
+    "ratingLabel": "From Oxfordshire homeowners",
     "items": [
       {
-        "quote": "Came out within the hour for a burst pipe emergency. Fair price, brilliant work. Couldn't recommend enough.",
-        "name": "Sarah M.",
-        "location": "Clapham",
-        "initials": "SM"
+        "quote": "The team took our dated home and transformed it into a polished, warm and genuinely luxurious place to live. The process was seamless.",
+        "name": "Emma R.",
+        "location": "Oxford",
+        "initials": "ER"
       },
       {
-        "quote": "Replaced our boiler in a single day with zero mess left behind. Professional from start to finish.",
-        "name": "James T.",
-        "location": "Streatham",
-        "initials": "JT"
+        "quote": "Their attention to detail was exceptional. Every decision felt considered and the finished result has completely changed how we live in the home.",
+        "name": "Daniel P.",
+        "location": "Bicester",
+        "initials": "DP"
       },
       {
-        "quote": "Honest, punctual, and didn't try to upsell us on anything we didn't need. Will be using again.",
-        "name": "Priya K.",
-        "location": "Croydon",
-        "initials": "PK"
+        "quote": "From the first design discussion to final completion, the standard of workmanship and communication was outstanding.",
+        "name": "Charlotte S.",
+        "location": "Witney",
+        "initials": "CS"
       }
     ]
   },
   "quote": {
-    "eyebrow": "Let's get it sorted",
-    "heading": "Tell us what's<br><em>going on.</em>",
-    "description": "Share a few details and our team will get back to you. Need urgent help? Call us any time.",
-    "smallPrint": "Available 24 hours, every day",
-    "formNote": "We'll use your details to respond to your enquiry.",
+    "eyebrow": "Let's start your project",
+    "heading": "Tell us about your home<br><em>and your ambitions.</em>",
+    "description": "Share a few details and we'll get back to you about your renovation, refurbishment or design build project.",
+    "smallPrint": "We'll respond to your enquiry promptly",
+    "formNote": "No obligation. We'll use your details to respond to your enquiry.",
     "formAction": "https://formspree.io/f/mljdvzbd",
-    "submitButton": "Request my free quote",
+    "submitButton": "Send project enquiry",
     "defaultOption": "Select a service",
     "services": [
-      {
-        "value": "emergency-plumbing",
-        "label": "Emergency plumbing"
-      },
-      {
-        "value": "boiler",
-        "label": "Boiler repair or installation"
-      },
-      {
-        "value": "central-heating",
-        "label": "Central heating"
-      },
-      {
-        "value": "bathroom",
-        "label": "Bathroom plumbing"
-      },
-      {
-        "value": "drains",
-        "label": "Drain clearance"
-      },
-      {
-        "value": "maintenance",
-        "label": "General maintenance"
-      },
-      {
-        "value": "other",
-        "label": "Something else"
-      }
+      { "value": "design-build", "label": "Design & build" },
+      { "value": "renovation", "label": "Full house renovation" },
+      { "value": "refurbishment", "label": "Luxury refurbishment" },
+      { "value": "extension", "label": "Home extension" },
+      { "value": "kitchen-bathroom", "label": "Kitchen & bathroom design" },
+      { "value": "project-management", "label": "Project management" },
+      { "value": "other", "label": "Something else" }
     ]
   },
   "images": {
     "hero": {
-      "src": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?auto=format&fit=crop&w=768&q=75",
-      "srcset": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?auto=format&fit=crop&w=480&q=75 480w, https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?auto=format&fit=crop&w=768&q=75 768w, https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?auto=format&fit=crop&w=1200&q=75 1200w, https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?auto=format&fit=crop&w=1600&q=75 1600w",
+      "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=768&q=75",
+      "srcset": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=480&q=75 480w, https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=768&q=75 768w, https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=75 1200w, https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1600&q=75 1600w",
       "sizes": "(max-width: 700px) calc(100vw - 40px), 42vw",
-      "alt": "Plumber working on pipework beneath a kitchen sink"
+      "alt": "Luxury modern home interior and architectural detailing"
     },
     "about": {
-      "src": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=768&q=75",
-      "srcset": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=480&q=75 480w, https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=768&q=75 768w, https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=1100&q=75 1100w, https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=1400&q=75 1400w",
+      "src": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=768&q=75",
+      "srcset": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=480&q=75 480w, https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=768&q=75 768w, https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1100&q=75 1100w, https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1400&q=75 1400w",
       "sizes": "(max-width: 700px) 100vw, 50vw",
-      "alt": "Qualified tradesperson carefully installing plumbing equipment"
+      "alt": "Premium residential construction and interior design project"
     },
     "work": [
       {
-        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=480&q=75",
-        "srcset": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=360&q=75 360w, https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=480&q=75 480w, https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=640&q=75 640w, https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=900&q=75 900w",
+        "src": "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=480&q=75",
+        "srcset": "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=360&q=75 360w, https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=480&q=75 480w, https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=640&q=75 640w, https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=900&q=75 900w",
         "sizes": "(max-width: 700px) calc(100vw - 40px), (max-width: 1240px) 32vw, 400px",
-        "alt": "Neatly installed radiator and heating pipework"
+        "alt": "Contemporary luxury kitchen and living space"
       },
       {
-        "src": "https://images.unsplash.com/photo-1620626011761-996317b8d101?auto=format&fit=crop&w=360&q=75",
-        "srcset": "https://images.unsplash.com/photo-1620626011761-996317b8d101?auto=format&fit=crop&w=240&q=75 240w, https://images.unsplash.com/photo-1620626011761-996317b8d101?auto=format&fit=crop&w=360&q=75 360w, https://images.unsplash.com/photo-1620626011761-996317b8d101?auto=format&fit=crop&w=480&q=75 480w, https://images.unsplash.com/photo-1620626011761-996317b8d101?auto=format&fit=crop&w=640&q=75 640w, https://images.unsplash.com/photo-1620626011761-996317b8d101?auto=format&fit=crop&w=900&q=75 900w",
+        "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=360&q=75",
+        "srcset": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=240&q=75 240w, https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=360&q=75 360w, https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=480&q=75 480w, https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=640&q=75 640w, https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=75 900w",
         "sizes": "(max-width: 700px) calc(50vw - 25px), (max-width: 1240px) 32vw, 400px",
-        "alt": "Modern bathroom with carefully finished fixtures"
+        "alt": "Luxury home renovation and interior finish"
       },
       {
-        "src": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=360&q=75",
-        "srcset": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=240&q=75 240w, https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=360&q=75 360w, https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=480&q=75 480w, https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=640&q=75 640w, https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=900&q=75 900w",
+        "src": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=360&q=75",
+        "srcset": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=240&q=75 240w, https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=360&q=75 360w, https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=480&q=75 480w, https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=640&q=75 640w, https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=900&q=75 900w",
         "sizes": "(max-width: 700px) calc(50vw - 25px), (max-width: 1240px) 32vw, 400px",
-        "alt": "Bright, finished home interior after renovation"
+        "alt": "Elegant living spaces finished to a premium specification"
       }
     ]
   },
   "map": {
-    "title": "Map showing South London service area",
-    "src": "https://maps.google.com/maps?q=South%20London%2C%20UK&t=&z=10&ie=UTF8&iwloc=&output=embed"
+    "title": "Map showing the Oxfordshire service area",
+    "src": "https://maps.google.com/maps?q=Oxford%2C%20UK&t=&z=10&ie=UTF8&iwloc=&output=embed"
   },
   "slogans": {
-    "imageCaption": "GOOD WORK. DONE PROPERLY.",
-    "aboutTagline": "BUILT ON TRUST, NOT SHORTCUTS.",
-    "mapTag": "LOCAL TEAM, LOCAL KNOW-HOW",
-    "footerTagline": "Good work. Done properly. Keeping South London homes running."
+    "imageCaption": "BESPOKE HOMES. LASTING QUALITY.",
+    "aboutTagline": "BUILT WITH INTENT. FINISHED WITH CHARACTER.",
+    "mapTag": "LOCAL EXPERTISE, REGIONAL REACH",
+    "footerTagline": "Thoughtful design. Precise building. Beautifully lived-in homes."
   },
   "footer": {
-    "tagline": "Good work. Done properly.<br>Keeping South London homes running.",
+    "tagline": "Thoughtful design. Precise building.<br>Beautifully lived-in homes.",
     "getInTouchHeading": "Get in touch",
-    "availableHeading": "Here when you need us",
-    "availability": "Emergency callouts<br>Monday to Sunday, 24/7",
-    "addressLineOne": "123 High Street",
-    "addressLineTwo": "London, SW9 8XY",
-    "locationText": "South London, UK",
-    "copyright": "Apex Plumbing & Heating"
+    "availableHeading": "Project enquiries",
+    "availability": "Design consultations<br>Monday to Friday, 9am–5pm",
+    "addressLineOne": "Oxford",
+    "addressLineTwo": "Oxfordshire, UK",
+    "locationText": "Oxford, UK",
+    "copyright": "Wayridge Developments Ltd"
   }
 }
